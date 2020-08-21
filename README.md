@@ -69,6 +69,11 @@ Below is the repository tree to indicate where which files are being located.
 
 You can use this tool completely online by visting (!link to be entered). It is part of our ambitious DevoWormAI center project. More over, this tool also provides reseachers all necessary code by the means of Google Colab notebooks which can be found on the web app itself and also here(!Link to be entered). This notebook is for those who have understanding of Machine learning and neural networks and they can tweak the params according to thier need for the best results.
 
+## Online Resource
+
+If you want to try out our online tool, please visit - [Celegan Tool](https://celegans-devolearn.herokuapp.com/)
+For more of our research and tools, please visit our Home Page - [DevoWormAI](https://devoworm.github.io/DevoWormAi/index.html)
+
 ## Can I use it on my local machine?
 
 Yes, it is a web app that you can easily install and run on your device. Please Follow the below instructions to proceed.
