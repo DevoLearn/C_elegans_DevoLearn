@@ -2,9 +2,9 @@
 Web App to support the _C. elegans_ part of the Devolearn library
 
 ## What is it?
-This is a web app implementation of _C.elegan_ part of the Devolearn library. For the researchers out there who are not very familiar with programing but are in need to use Machine lerning and Neural networks to accelerate their research can use this tool. 
+This is a web app implementation of _C.elegans_ part of the Devolearn library. For the researchers out there who are not very familiar with programing but are in need to use Machine lerning and Neural networks to accelerate their research can use this tool. 
 
-It is a highly interactive and user friendly tool to get quick results, with all the information of _C.elegan_ Embrogenesis process. 
+It is a highly interactive and user friendly tool to get quick results, with all the information of _C.elegans_ Embrogenesis process. 
 
 ## Repository Tree
 
@@ -67,11 +67,11 @@ Below is the repository tree to indicate where which files are being located.
 </pre>
 ## How to use it?
 
-You can use this tool completely online by visting (!link to be entered). It is part of our ambitious DevoWormAI center project. More over, this tool also provides reseachers all necessary code by the means of Google Colab notebooks which can be found on the web app itself and also here(!Link to be entered). This notebook is for those who have understanding of Machine learning and neural networks and they can tweak the params according to thier need for the best results.
+This tool is part of [DevoWormAI](https://devoworm.github.io/DevoWormAi/index.html). More over, this tool also provides reseachers all necessary code by the means of Google Colab notebooks which can be found in this directory. This notebook is for those who have understanding of Machine learning and neural networks and they can tweak the params according to thier need for the best results.
 
 ## Online Resource
 
-If you want to try out our online tool, please visit - [Celegan Tool](https://celegans-devolearn.herokuapp.com/)
+If you want to try out our online tool, please visit - [OpenDevoCell](https://celegans-devolearn.herokuapp.com/)
 For more of our research and tools, please visit our Home Page - [DevoWormAI](https://devoworm.github.io/DevoWormAi/index.html)
 
 ## Can I use it on my local machine?
