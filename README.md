@@ -1,5 +1,5 @@
 # *C. elegans* DevoLearn
-Web App to support the _C. elegans_ part of the Devolearn library
+Web App to support the _C. elegans_ part of the Devolearn library. 
 
 ## What is it?
 This is a web app implementation of _C.elegans_ part of the Devolearn library. For the researchers out there who are not very familiar with programing but are in need to use Machine lerning and Neural networks to accelerate their research can use this tool. 
@@ -67,7 +67,7 @@ Below is the repository tree to indicate where which files are being located.
 </pre>
 ## How to use it?
 
-This tool is part of [DevoWormAI](https://devoworm.github.io/DevoWormAi/index.html). More over, this tool also provides reseachers all necessary code by the means of Google Colab notebooks which can be found in this directory. This notebook is for those who have understanding of Machine learning and neural networks and they can tweak the params according to thier need for the best results.
+This tool is part of [DevoWormAI](https://devoworm.github.io/DevoWormAi/index.html). More over, this tool also provides reseachers all necessary code by the means of Google Colab notebooks which can be found in this directory. This notebook is for those who have understanding of Machine learning and neural networks and they can tweak the params according to their need for the best results.
 
 ## Online Resource
 
