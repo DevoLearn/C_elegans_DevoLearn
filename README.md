@@ -1,6 +1,10 @@
 # *C. elegans* DevoLearn
 Web App to support the _C. elegans_ part of the Devolearn library. 
 
+Address an [issue](https://github.com/devoworm/Digital-Bacillaria/issues) or attend a [group meeting](https://devoworm.weebly.com/schedulejoin.html), Contribute to Hacktoberfest 2021!   
+
+<IMG width="200" height="50" SRC = "https://github.com/devoworm/Digital-Bacillaria/blob/master/Hacktoberfest/hf_logo.png">
+
 ## What is it?
 This is a web app implementation of _C.elegans_ part of the Devolearn library. For the researchers out there who are not very familiar with programing but are in need to use Machine lerning and Neural networks to accelerate their research can use this tool. 
 
